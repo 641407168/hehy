@@ -1,0 +1,3 @@
+2018-06-26 17:30:00,035 [INFO] [FrameworkScheduler_Worker-7] com.framework.modules.job.utils.ScheduleJob [ScheduleJob.java : 47] 任务准备执行，任务ID：2
+2018-06-26 17:30:00,038 [INFO] [pool-7-thread-1] com.framework.modules.job.task.TestTask [TestTask.java : 37] 我是不带参数的test2方法，正在被执行
+2018-06-26 17:30:00,039 [INFO] [FrameworkScheduler_Worker-7] com.framework.modules.job.utils.ScheduleJob [ScheduleJob.java : 59] 任务执行完毕，任务ID：2  总共耗时：5毫秒
