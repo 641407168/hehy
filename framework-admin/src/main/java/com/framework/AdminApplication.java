@@ -12,7 +12,7 @@ public class AdminApplication extends SpringBootServletInitializer {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AdminApplication.class, args);
-		System.out.println ("URL is http://localhost:8080/framework-admin");
+		System.out.println ("URL is that http://localhost:8080/framework-admin");
 	}
 
 	@Override
